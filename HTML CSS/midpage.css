@@ -1,0 +1,11 @@
+.midpage{
+    background-color: white;
+    position: relative;
+}
+
+sidedetail.{
+    position: absolute;
+    display: block;
+    margin-left: 24px;
+    border: 1px;
+}
